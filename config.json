@@ -106,6 +106,34 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "baihusipin": {
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "name": "白虎视频"
+    }, 
+    "meishaonuzy": {
+      "api": "https://www.msnii.com/api/xml.php",
+      "name": "美少女资源"
+    }, 
+    "yinshuijizy": {
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "name": "淫水机资源"
+    }, 
+    "meishaonu1": {
+      "api": "https://www.msnii.com/api/xml.php",
+      "name": "美少女"
+    }, 
+    "zp059": {
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "name": "番号资源"
+    }, 
+    "xiangnaierzy": {
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "name": "香奶儿资源"
+    }, 
+    "semaozy": {
+      "api": "https://api.maozyapi.com/inc/api.php",
+      "name": "色猫资源"
+    }, 
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
